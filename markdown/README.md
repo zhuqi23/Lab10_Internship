@@ -24,6 +24,8 @@
 - 框架: langchain
 
 
+### 项目结构
+```
 Internship/
 |-- document/
 |   |-- 原文档/
@@ -32,3 +34,4 @@ Internship/
 |   |-- data_processing/
 |   |-- rag/
 |-- app.py
+```
